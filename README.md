@@ -7,10 +7,10 @@ It uses **synthetic Facebook-like data** to ensure ethical and legal compliance.
 ---
 
 ## Method
-- **Problem Type:** Binary Classification (Human vs Bot-like)  
-- **Model:** Random Forest Classifier (baseline: Logistic Regression)  
-- **Data Representation:** Each row represents **one account**, not individual actions  
-- **Features:**
+**Problem Type:** Binary Classification (Human vs Bot-like)  
+**Model:** Random Forest Classifier (baseline: Logistic Regression)  
+**Data Representation:** Each row represents **one account**, not individual actions  
+**Features:**
 ```text
 account_age_days
 likes_per_day
