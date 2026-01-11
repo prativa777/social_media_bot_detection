@@ -13,12 +13,19 @@ It uses **synthetic Facebook-like data** to ensure ethical and legal compliance.
 **Features:**
 
 account_age_days
+
 likes_per_day
+
 median_time_between_likes
+
 night_activity_ratio
+
 content_diversity_score
+
 burstiness_index
+
 engagement_entropy
+
 
 **Why the Results Are Perfect**
 
